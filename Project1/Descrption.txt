@@ -1,0 +1,1 @@
+This project involves uses homography to map a picture of Soldier's Tower in U of T to a billboard in Yonge-Dundas square.
