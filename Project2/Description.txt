@@ -1,0 +1,5 @@
+Camera pose estimation.
+
+This project involves using Harris detector to find features with highest Harris scores. 
+Then clustering them and find the centroids as cross junctions. 
+The cross junctions are then used in a Nonlinear Least Square algorithm to iteratively estimate camera pose.
